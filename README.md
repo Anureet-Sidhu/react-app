@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A demo react project to understand the working of react.
+A pokemon application which displays data from graphql api.
+Used css for styling.
+
 ## Available Scripts
 
 In the project directory, you can run:
